@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/michaelvu97/the-house-is-alive/issues"
   },
@@ -20,5 +20,8 @@
   "dependencies": {
     "@task-core/task-core": "file:task-core",
     "express": "^4.17.3"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
