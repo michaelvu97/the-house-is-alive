@@ -22,6 +22,7 @@
     "express": "^4.17.3"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.x",
+    "mysql": "^2.18.1"
   }
 }
