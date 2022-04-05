@@ -1,0 +1,24 @@
+{
+  "name": "the-house-is-alive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelvu97/the-house-is-alive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelvu97/the-house-is-alive/issues"
+  },
+  "homepage": "https://github.com/michaelvu97/the-house-is-alive#readme",
+  "dependencies": {
+    "@task-core/task-core": "file:task-core",
+    "express": "^4.17.3"
+  }
+}
